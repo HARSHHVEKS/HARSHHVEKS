@@ -11,13 +11,13 @@
 
 ---
 
-### 🔥 What I'm Building
+### What I'm Building
 
 | Project | Tech | Status | Description |
 |---------|------|--------|-------------|
-| **VATRAR** | Next.js · Django | 🟢 In Progress | Car valuation platform with inspection workflows |
 | **MediVoice** | Flutter · SQLite | 🟡 Active | Offline-first medication app with voice reminders |
 | **Photo Pipeline** | Python · OpenCV | ⚫ Production | Automated batch editing for 800+ images |
+| **VATRAR** |  | 🟢 In Progress with uncertainity |  |
 
 ---
 
